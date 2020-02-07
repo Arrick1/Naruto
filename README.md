@@ -24,4 +24,4 @@ User Story #8: The img element should responsively resize, relative to the width
 
 User Story #9: The img element should be centered within its parent element.
 
-Technologies used: HTML, JavaScript, CSS, & Bootstrap
+Technologies used: HTML, CSS, & Bootstrap
